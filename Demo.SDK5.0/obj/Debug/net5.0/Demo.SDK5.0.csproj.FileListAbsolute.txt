@@ -1,0 +1,16 @@
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\bin\Debug\net5.0\Demo.SDK5.0.exe
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\bin\Debug\net5.0\Demo.SDK5.0.deps.json
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\bin\Debug\net5.0\Demo.SDK5.0.runtimeconfig.json
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\bin\Debug\net5.0\Demo.SDK5.0.runtimeconfig.dev.json
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\bin\Debug\net5.0\Demo.SDK5.0.dll
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\bin\Debug\net5.0\ref\Demo.SDK5.0.dll
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\bin\Debug\net5.0\Demo.SDK5.0.pdb
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.csprojAssemblyReference.cache
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.AssemblyInfoInputs.cache
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.AssemblyInfo.cs
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.csproj.CoreCompileInputs.cache
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.dll
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\ref\Demo.SDK5.0.dll
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.pdb
+D:\wwwroot\Test_demo\Demo.HttpWebResponse\Demo.SDK5.0\obj\Debug\net5.0\Demo.SDK5.0.genruntimeconfig.cache
