@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XOt9iFt4xjSp/JCm0oLQ94AkGagRSdICodfLoP5LD0rr6OyS4/5TqkreL6QTZnyMtFr4bRQ/qOxv50ndAn3lmA==",
+  "dgSpecHash": "TNrIzEknmS0WKRlcnHky9Ww0TX8viUYF6wPVe6udItSRc8wNcGeAmgc8M5B+IMxp1yOiPUtntqR1IRN5MV5HzQ==",
   "success": true,
-  "projectFilePath": "D:\\wwwroot\\Test_demo\\Demo.HttpWebResponse\\Demo.SDK3.1\\Demo.SDK3.1.csproj",
+  "projectFilePath": "D:\\wwwroot\\Demo\\HttpWebResponse\\Demo.SDK3.1\\Demo.SDK3.1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

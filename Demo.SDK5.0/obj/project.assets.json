@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chejiang\\.nuget\\packages\\": {}
+    "C:\\Users\\10422\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\wwwroot\\Test_demo\\Demo.HttpWebResponse\\Demo.SDK5.0\\Demo.SDK5.0.csproj",
+      "projectUniqueName": "D:\\wwwroot\\Demo\\HttpWebResponse\\Demo.SDK5.0\\Demo.SDK5.0.csproj",
       "projectName": "Demo.SDK5.0",
-      "projectPath": "D:\\wwwroot\\Test_demo\\Demo.HttpWebResponse\\Demo.SDK5.0\\Demo.SDK5.0.csproj",
-      "packagesPath": "C:\\Users\\chejiang\\.nuget\\packages\\",
-      "outputPath": "D:\\wwwroot\\Test_demo\\Demo.HttpWebResponse\\Demo.SDK5.0\\obj\\",
+      "projectPath": "D:\\wwwroot\\Demo\\HttpWebResponse\\Demo.SDK5.0\\Demo.SDK5.0.csproj",
+      "packagesPath": "C:\\Users\\10422\\.nuget\\packages\\",
+      "outputPath": "D:\\wwwroot\\Demo\\HttpWebResponse\\Demo.SDK5.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chejiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\10422\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

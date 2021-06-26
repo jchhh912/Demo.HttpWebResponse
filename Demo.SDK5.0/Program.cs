@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
+using System.Net.Http;
 using System.Text;
 
 namespace Demo.SDK5._0
@@ -10,10 +11,13 @@ namespace Demo.SDK5._0
     {
         static void Main(string[] args)
         {
-            String requestID = System.Guid.NewGuid().ToString(); //获取uuid
-            String reqURL = "https://sfapi-sbox.sf-express.com/std/service";//测试环境
-            String respJson = callSfExpressServiceByCSIM(reqURL, requestID);
-            Console.WriteLine(respJson);
+            var client = new HttpClient();
+            var resp = client.GetAsync("https://demo.identityserver.io/.well-known/openid-configuration").Result;
+            Console.WriteLine(resp.StatusCode);
+            //String requestID = System.Guid.NewGuid().ToString(); //获取uuid
+            //String reqURL = "https://sfapi-sbox.sf-express.com/std/service";//测试环境
+            //String respJson = callSfExpressServiceByCSIM(reqURL, requestID);
+            //Console.WriteLine(respJson);
         }
         private static string callSfExpressServiceByCSIM(string reqURL ,string requestID)
         {
@@ -52,7 +56,6 @@ namespace Demo.SDK5._0
 
             HttpWebResponse resp = (HttpWebResponse)req.GetResponse();
             Stream stream = resp.GetResponseStream();
-            //获取响应内容
             using (StreamReader reader = new StreamReader(stream, Encoding.UTF8))
             {
                 result = reader.ReadToEnd();
