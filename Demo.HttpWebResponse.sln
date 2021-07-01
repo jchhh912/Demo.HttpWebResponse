@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.SDK3.1", "Demo.SDK3.1\Demo.SDK3.1.csproj", "{CC184C0A-0065-4149-A781-31D9FF618B4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.SDK5.0", "Demo.SDK5.0\Demo.SDK5.0.csproj", "{72B917E3-1513-49CC-A3BB-8F002BDF3C34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.SDK5.0", "Demo.SDK5.0\Demo.SDK5.0.csproj", "{72B917E3-1513-49CC-A3BB-8F002BDF3C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.API5.0", "Demo.API5.0\Demo.API5.0.csproj", "{D286FE97-68D1-4B71-99AE-EFDE7FEEC575}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{72B917E3-1513-49CC-A3BB-8F002BDF3C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B917E3-1513-49CC-A3BB-8F002BDF3C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B917E3-1513-49CC-A3BB-8F002BDF3C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D286FE97-68D1-4B71-99AE-EFDE7FEEC575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D286FE97-68D1-4B71-99AE-EFDE7FEEC575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D286FE97-68D1-4B71-99AE-EFDE7FEEC575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D286FE97-68D1-4B71-99AE-EFDE7FEEC575}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

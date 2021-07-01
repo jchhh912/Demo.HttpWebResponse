@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "TNrIzEknmS0WKRlcnHky9Ww0TX8viUYF6wPVe6udItSRc8wNcGeAmgc8M5B+IMxp1yOiPUtntqR1IRN5MV5HzQ==",
+  "dgSpecHash": "tLPVvMRdPxrf1BuueMJYkLXwxjyFuV7+pgkOho1701nGXnhu24VaWKhURAM/vmVFmfxKu8JTBkt0gKd779dXNA==",
   "success": true,
   "projectFilePath": "D:\\wwwroot\\Demo\\HttpWebResponse\\Demo.SDK3.1\\Demo.SDK3.1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\10422\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\10422\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\10422\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\10422\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\10422\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\10422\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\10422\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\10422\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

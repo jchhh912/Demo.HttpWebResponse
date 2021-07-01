@@ -8,18 +8,18 @@ using System.Threading.Tasks;
 
 namespace Demo.SDK3._1
 {
+    /// <summary>
+    /// 3.1 tested everything fine  
+    /// </summary>
     class Program
     {
         static  void Main(string[] args)
         {
-
             var client = new HttpClient();
-            var resp = client.GetAsync("https://demo.identityserver.io/.well-known/openid-configuration").Result;
-            Console.WriteLine(resp.StatusCode);
-            //String requestID = System.Guid.NewGuid().ToString(); //获取uuid
-            //String reqURL = "https://sfapi-sbox.sf-express.com/std/service";//测试环境
-            //String respJson = callSfExpressServiceByCSIM(reqURL, requestID);
-            //Console.WriteLine(respJson);
+            var resp = client.GetAsync("https://sfapi-sbox.sf-express.com/std/service").Result;
+            //var resp = client.GetAsync("https://demo.identityserver.io/.well-known/openid-configuration").Result;
+            Console.WriteLine(resp.Content.ReadAsStringAsync().Result);
+            Console.ReadKey();
         }
         private static string callSfExpressServiceByCSIM(string reqURL, string requestID)
         {
